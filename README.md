@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 - I have a keen interest on **Machine Learning**, **Deep Learning**, and **Meta Modeling**.
-- I have a passion for merging theoretical knowledge with practical applications, guiding students and researchers towards innovation.
+- I have a passion for merging theoretical knowledge with practical applications.
 - Currently exploring advanced **Meta Modeling** techniques to enhance prediction accuracy over multiple models.
 - On a mission to drive innovation through research, projects, and collaboration in the tech community.
 
