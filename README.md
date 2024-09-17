@@ -1,4 +1,4 @@
-<h1 align="center">I'm Arif Mohmmad Asfe</h1>
+<h1 align="center">Arif Mohmmad Asfe</h1>
 <h3 align="center">Adjunct Faculty, Dept. of CSE, International Islamic University Chittagong (IIUC)</h3>
 
 - 🌱 I’m currently learning **Meta Learning and Meta Modeling**
