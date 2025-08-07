@@ -1,7 +1,7 @@
 # Arif Mohmmad Asfe's GitHub
-🎓 _Adjunct Faculty, Department of CSE, International Islamic University Chittagong (IIUC)_
+🎓 _Lecturer, Department of CSE, Southern University Bangladesh (SUB) | Peer Reviewer, Engineering Applications of Artificial Intelligence_
 
- 🌱 **Meta Learning Enthusiast**  
+ 🌱 **Researcher | Meta Learning Enthusiast**  
 
 ---
 
@@ -32,6 +32,7 @@
 - **Software Development**
 
 ### 🌐 Connect with Me
+- Read about my researches on **[Researchgate](https://www.researchgate.net/profile/Arif-Mohammad-Asfe)**
 - Check out my projects on **[GitHub](https://github.com/arifasfe)**
 - Stay updated with my professional journey on **[LinkedIn](https://www.linkedin.com/in/arifasfe/)**
 - Reach out to me directly via **[Email](mailto:arifasfe@gmail.com)**
